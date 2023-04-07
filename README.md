@@ -1,3 +1,7 @@
+# Awards
+
+This badly coded Python Battlesnake managed to win the NJIT ACM Battlesnake hackathon Spring 2023.
+
 # Battlesnake Python Project
 
 [![Run on Replit](https://repl.it/badge/github/BattlesnakeOfficial/starter-snake-python)](https://replit.com/@nashidahmed/Battlesnake#main.py)
@@ -58,7 +62,3 @@ battlesnake play -W 11 -H 11 --name 'Python Starter Project' --url http://localh
 Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
 
 **Note:** To play games on [play.battlesnake.com](https://play.battlesnake.com) you'll need to deploy your Battlesnake to a live web server OR use a port forwarding tool like [ngrok](https://ngrok.com/) to access your server locally.
-
-# Awards
-
-This badly coded Python Battlesnake managed to win the NJIT ACM Battlesnake hackathon Spring 2023.
