@@ -1,6 +1,6 @@
 # Awards
 
-This crudely devloped Python Battlesnake managed to win the NJIT ACM Battlesnake hackathon Spring 2023!
+This crudely devloped Python Battlesnake won the NJIT ACM Battlesnake hackathon held in Spring 2023!
 
 # Battlesnake Python Project
 
